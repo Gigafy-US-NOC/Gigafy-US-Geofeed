@@ -1,0 +1,2 @@
+# Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
+# Gigafy US Geofeed,lastupdated (rfc3339): 2024-03-10T01:11:28-08:00
