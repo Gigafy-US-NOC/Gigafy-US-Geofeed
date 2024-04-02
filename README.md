@@ -1,2 +1,1 @@
-#Gigafy Geofeed
-Geo-feed for Gigafy US in RFC 8805 format
+#Gigafy Geofeed for Gigafy US in RFC 8805 format
