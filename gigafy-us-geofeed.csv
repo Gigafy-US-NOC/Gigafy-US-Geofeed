@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Last Updated 2026-07-08
+# Last Updated 2026-08-13
 
 
 209.120.153.180/30,US,US-TN,Memphis,38103
@@ -13,6 +13,8 @@
 173.211.245.96/30,US,US-NC,Mooresville,28117
 40.130.19.224/29,US,US-NC,Mooresville,28117
 23.135.224.1/24,US,US-AL,Heflin,36264
+209.178.217.83/32,US,US-AL,Heflin,36264
+170.118.249.86/32,US,US-AL,Heflin,36264
 76.74.57.198/32,US,US-VA,Alexandria,22311
 76.74.98.64/30,US,US-VA,Alexandria,22311
 65.175.13.32/30,US,US-VA,Alexandria,22311
